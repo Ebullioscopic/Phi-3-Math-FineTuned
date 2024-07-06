@@ -58,13 +58,12 @@ ollama run Ebullioscopic/phi_3_math_finetuned
 ```
 
 ## Run on Colab
-```
 
-```
+JuPyter Notebook: [Phi-3-Inference](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/Phi_3_Inference.ipynb)
 
 ## Fine Tuning
 
-JuPyter Notebook: [Open in Colab](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/Phi_3_Fine_Tuning.ipynb)
+JuPyter Notebook: [Phi-3-Math-FineTuning](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/Phi_3_Fine_Tuning.ipynb)
 
 ## Retrieval Augmented Generation
 
@@ -110,6 +109,6 @@ streamlit run app/main.py
 
 [Hariharan Mudaliar](https://www.linkedin.com/in/hariharan-mudaliar)
 
-Tumati Omkar Chowdary
+[Tumati Omkar Chowdary](https://www.linkedin.com/in/omkar-chowdary-84023226a)
 
-[Akula Satya Sesha Sai](https://www.linkedin.com/in/akula-satya-sesha-sai-4994a924b/)
+[Akula Satya Sesha Sai](https://www.linkedin.com/in/akula-satya-sesha-sai-4994a924b)
