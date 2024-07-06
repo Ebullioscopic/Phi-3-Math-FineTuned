@@ -16,8 +16,8 @@ from langchain_community.vectorstores import Chroma
 dotenv.load_dotenv()
 
 # Hugging Face login token
-#hutoken = os.getenv('HF_TOKEN')
-hutoken = "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"
+hutoken = os.getenv('HF_TOKEN')
+#hutoken = ""
 login(token=hutoken)
 
 # Define the chat system prompt
