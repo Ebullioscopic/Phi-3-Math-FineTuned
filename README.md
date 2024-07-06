@@ -1,5 +1,13 @@
 # Phi 3 Fine Tuned using the Orca Math Dataset
 
+![Command Line](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/images/command_line.png)
+
+![](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/images/graphical.jpg)
+
+![](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/images/ss_1.jpeg)
+
+![](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/images/ss_2.jpeg)
+
 ## Introduction
 
 Phi-3, a large language model, can be enhanced for mathematical problem-solving by fine-tuning it on the Orca-Math dataset. This dataset, specifically designed for training small language models in math, offers a collection of synthetically generated word problems. By training Phi-3 on these problems, the model learns to tackle mathematical tasks like those found on grade-school math exams. This fine-tuning process improves Phi-3's accuracy in solving word problems without requiring complex techniques like code generation or external tools.
