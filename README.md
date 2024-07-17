@@ -200,7 +200,8 @@ cd path/to/project
 python -m pip install -r requirements.txt
 streamlit run app/main.py
 ```
-
+## Architecture Diagram
+![Architecture Diagram](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/images/architecture-diagram.jpeg)
 ## Requirements
 
 - [Unsloth](https://huggingface.co/unsloth)
