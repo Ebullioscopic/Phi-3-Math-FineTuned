@@ -237,3 +237,9 @@ streamlit run app/main.py
 [Tumati Omkar Chowdary](https://www.linkedin.com/in/omkar-chowdary-84023226a)
 
 [Akula Satya Sesha Sai](https://www.linkedin.com/in/akula-satya-sesha-sai-4994a924b)
+
+## Documentations
+
+[PDF Link](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/INTEL_Orca_Math.pdf)
+
+[PPT Link](https://github.com/Ebullioscopic/Phi-3-Math-FineTuned/blob/main/INTEL_Orca_Math.pptx)
